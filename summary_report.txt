@@ -1,0 +1,31 @@
+Sales Data Analysis - Summary Report
+Skybrisk Internship - Month 2
+
+Dataset Overview:
+The dataset contains 15 sales orders across 3 categories (Electronics,
+Stationery, Furniture) and 4 regions (North, South, East, West), with
+some missing values in the Quantity and Region columns.
+
+Data Cleaning:
+- Missing Quantity values were filled with the average quantity (6.15).
+- Missing Region values were labeled as "Unknown" since they could not
+  be inferred from the other columns.
+
+Key Insights:
+1. Electronics is by far the highest-earning category, driven mainly by
+   high-priced items like laptops (Rs. 55,000 each).
+2. North region generated the highest total sales (Rs. 113,550),
+   followed by East and South.
+3. There is a strong positive correlation (0.87) between Price and
+   Total sales, meaning higher-priced items contribute more to revenue
+   even when ordered in smaller quantities.
+4. There is a mild negative correlation (-0.43) between Quantity and
+   Price, suggesting that more expensive items (like laptops) tend to
+   be ordered in smaller amounts, while cheaper items (like pens and
+   notebooks) are ordered in bulk.
+5. The average order value across all products is roughly Rs. 19,778.
+
+Conclusion:
+Electronics products, despite being ordered less frequently, are the
+biggest driver of revenue. This kind of insight would help a business
+focus marketing and stock priority on high-value categories.

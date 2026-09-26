@@ -1,0 +1,16 @@
+OrderID,Product,Category,Quantity,Price,Region
+1,Laptop,Electronics,2,55000,North
+2,Notebook,Stationery,10,50,South
+3,Mouse,Electronics,5,600,North
+4,Desk,Furniture,1,4500,East
+5,Chair,Furniture,,2200,East
+6,Pen,Stationery,20,10,South
+7,Monitor,Electronics,3,9000,West
+8,Notebook,Stationery,8,50,North
+9,Keyboard,Electronics,4,1200,
+10,Table,Furniture,2,6000,East
+11,Laptop,Electronics,1,55000,South
+12,Chair,Furniture,3,2200,West
+13,Pen,Stationery,15,10,North
+14,Monitor,Electronics,,9000,East
+15,Mouse,Electronics,6,600,South
